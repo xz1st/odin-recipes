@@ -1,0 +1,10 @@
+.index-head {
+    text-align: center;
+    font-size: 48px;
+}
+
+.index-list {
+    list-style-type: none;
+    font-size: 20px;
+    display: inline-block;
+}
