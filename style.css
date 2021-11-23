@@ -1,10 +1,17 @@
 .index-head {
+    color: #000000;
     text-align: center;
-    font-size: 48px;
+    font-size: 58px;
 }
 
 .index-list {
     list-style-type: none;
     font-size: 20px;
     display: inline-block;
+}
+
+.burrito-head,
+.lasagna-head, 
+.torte-head {
+    text-align: center;
 }
