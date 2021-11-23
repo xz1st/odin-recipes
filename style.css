@@ -10,8 +10,6 @@
     display: inline-block;
 }
 
-.burrito-head,
-.lasagna-head, 
-.torte-head {
+.recipe-head {
     text-align: center;
 }
