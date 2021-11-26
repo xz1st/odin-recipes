@@ -7,7 +7,7 @@
 .index-list {
     list-style-type: none;
     font-size: 20px;
-    display: inline-block;
+    display: block;
 }
 
 .recipe-head {
